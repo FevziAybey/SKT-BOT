@@ -1,0 +1,7 @@
+.env
+__pycache__/
+*.pyc
+skt_bot.db
+venv/
+.vscode/
+.idea/ 
